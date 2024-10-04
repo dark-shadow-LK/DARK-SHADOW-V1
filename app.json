@@ -1,0 +1,31 @@
+{
+  "name": "DARK-SHADOW-MD",
+  "description": "Javascript WhatsApp bot made by Dark shadow",
+  "logo": "https://telegra.ph/file/1ece2e0281513c05d20ee.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+    },  
+
+ "ALIVE_IMG": {
+      "description": "Put your alive img here.",
+      "required": true
+     },
+      
+   "MONGODB": {
+      "description": "Put your mongodb url.",
+      "required": true
+    }
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
