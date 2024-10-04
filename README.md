@@ -1,42 +1,63 @@
-#    GHOST-V1-MD BOT   #
-<br>
- </p>
-    <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+GHOST-V1-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY;KIND GHOST , CYBER GHOST." alt="Typing SVG" /></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <h1 align="center"> DARK SHADOW V1 MD </h1>
 
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+      
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝘿𝘼𝙍𝙆+𝙎𝙃𝘼𝘿𝙊𝙒+𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝙋𝘼𝙏𝙃𝙐𝙈+𝙈𝘼𝙇𝙎𝘼𝙍𝘼)](https://git.io/typing-svg)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-  
-<div align="center">
-</p
-
-<hr>
-
-<hr>
-
+<p align="center"> Dark shadow MD💥, A Simple WhatsApp user BOT, Created by Pathum Malsara.
+</p>
 <p align="center">
-  <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="GHOST-MD" height="300" src="https://telegra.ph/file/26fa981907598d22aa4e1.jpg">
-
-    
-
-![forks](https://github.com/Cyberghost352/GHOST-MD.git)
-
-![stars](https://github.com/Cyberghost352/GHOST-MD.git)
 
 
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/1ece2e0281513c05d20ee.jpg" alt="01" border="0" /></a>                     
+<a>/<img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <h1 align="center">  SESSION SITE 
 
+</p>
 
-<a href="https://chat.whatsapp.com/DhCdan60qzH0yoIxmybU3i"><img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%E2%80%8D%20Join%20Our%20WhatsApp%20Channel%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-green" alt="📎 Join Our WhatsApp Channel" width="300"></a>
-
-
-# 𝐆𝐇𝐎𝐒𝐓 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐍𝐔𝐌𝐁𝐄𝐑👇:
-<img src="https://telegra.ph/file/f8ced69143daac134f2d7.jpg" width=80 height=80></a>   
-- [**❯𝐆𝐇𝐎𝐒𝐓-𝐂𝐎𝐍𝐓𝐀𝐂𝐓-𝐈𝐃❮**](https://wa.me/+94741140620?text=*❝𝙷𝙴𝚈◹𝙶𝙷𝙾𝚂𝚃✗𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁❞⛺*)
-
-- [**❯𝐆𝐇𝐎𝐒𝐓-𝐌𝐃 𝐖𝐄𝐁 𝐒𝐈𝐓𝐄❮**](https://RCD-GITHUB-REAL.github.io/Gost-md-web-new/)
-- 
-##  PAIRING CODE SCAN
-<a href="https://pair-web-public.koyeb.app/"><img src="https://pair-web-public.koyeb.app/" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://pair-web-public.koyeb.app/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ## Deploy.
- [![nima](https://img.shields.io/badge/ghostmd_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/GHOST-V1-MD/GHOST-MD)
+ [![nima](https://img.shields.io/badge/Dark-Shadow-md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/dark-shadow-LK/DARK-SHADOW-MD-V1)
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## Support 🧧 🧧 🧧 🧧
+## Join my channel for updates and get free cc
+<a href="chanel" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+
+HOW TO REACH THE OWNER? 
+ 
+   
+   <a href="https://wa.me/message/74F2PC4JA4F3P1">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a
+
+    ## Ask any thing
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## STEPS TO DEPLOY YOUR BOT
+
+
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/dark-shadow-LK/DARK-SHADOW-MD-V1/fork)
+
+2, TAP ON IBRAHIM TECH APP DOWN THERE
+
+
+
+3, CONNECT TO WHATSAPP WITH PAIRING CODE OR QR
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
