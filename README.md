@@ -4,8 +4,7 @@
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-      
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝘿𝘼𝙍𝙆+𝙎𝙃𝘼𝘿𝙊𝙒+𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝙋𝘼𝙏𝙃𝙐𝙈+𝙈𝘼𝙇𝙎𝘼𝙍𝘼)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=4729F7&background=752D9C00&center=true&random=true&lines=%F0%9D%90%83%F0%9D%90%80%F0%9D%90%91%F0%9D%90%8A+%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96++%F0%9D%90%8C%F0%9D%90%83+%F0%9D%90%82%F0%9D%90%93%F0%9D%90%84%F0%9D%90%80%F0%9D%90%93%F0%9D%90%84%F0%9D%90%83+%F0%9D%90%81%F0%9D%90%98+;%F0%9D%90%8F%F0%9D%90%80%F0%9D%90%93%F0%9D%90%87%F0%9D%90%94%F0%9D%90%8C+%F0%9D%90%8C%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%92%F0%9D%90%80%F0%9D%90%91%F0%9D%90%80%7C%7C%F0%9F%A6%8B)](https://git.io/typing-svg)   
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
