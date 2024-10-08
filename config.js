@@ -12,5 +12,5 @@ ALIVE_MSG: process.env.ALIVE_IMG || "🎉 Hi DARK-SHADOW-MD Is Online Now 💻\n
 SUDO_NB: process.env.SUDO_NB || "94773416478",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",
-AUTO_VOICE:"true"
+AUTO_VOICE: process.env.AUTO_VOICE || "true"
 };
